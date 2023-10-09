@@ -9,8 +9,5 @@
         <module name="Todo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Todo" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
